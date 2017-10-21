@@ -12,7 +12,7 @@ function models = ccd(img_file, varargin)
 %     '--override': overrides previously generated files (*.scl.* and *.lsd)
 %
 % example:
-%   main my-picture.jpg --noscale --show
+%   ccd my-picture.jpg --noscale --show
 
 import model.*
 import algorithm.*
