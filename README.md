@@ -2,7 +2,7 @@
 
 This is the code I've written for my bachelor thesis back in 2013. The topic was "Mittelkreiserkennung im RoboCup auf Basis von Liniensegmenterkennung" (engl. Center Circle Detection in RoboCup based on Line Segment Detection). 
 The RoboCup project aims to drive robotics and artificial intelligance forward. Teams all over the world are developing robots and letting them compete in tournaments playing football.
-The goal of my thesis was to develope a robost algorithm which is able to detect the center circle of the playing field.
+The goal of my thesis was to develop a robost algorithm which is able to detect the center circle of the playing field.
 
 # Dependencies
 
